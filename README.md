@@ -26,7 +26,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 **B.Tech Computer Science & Engineering** at Vishnu Institute of Technology (CGPA: **8.96 / 10**)
+- 🎓 **B.Tech Computer Science & Engineering** at Vishnu Institute of Technology
 - 💻 Passionate **Full Stack Developer** who loves crafting end-to-end web solutions
 - 🧠 Strong believer in **data-driven decision making** and **performance optimization**
 - 🔨 I enjoy building **real-world applications** that solve meaningful problems
@@ -92,7 +92,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha7330&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Varsha7330&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Varsha7330/Varsha7330/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating contributions" />
 
 </div>
 
